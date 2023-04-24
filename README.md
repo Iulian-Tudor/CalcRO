@@ -5,8 +5,8 @@ The task was to create a Calculator program that would take input from user in n
 
 Example: 
 
-input: "Cat face trei plus patru impartit la doi?"
+input: "Cat face trei plus patru impartit la doi?" (Translation: Evaluate three plus four devided by two?)
 
-output: "2 virgula 5"
+output: "doi virgula cinci" (Translation: two point five)
 
 The constraints are that so far it only accepts pozitive real numbers, as the method of utilizing keywords for operations, for now, cannot distinguish between 'minus' as the operation and 'minus' as the sign in front of a number inside that formula.
